@@ -1,2 +1,4 @@
-# Portfolio-Website
-Portfolio website showcasing my interests in technology. 
+# Portfolio Website
+Website that showcases my interests in technology. 
+
+Made using HTML, CSS, and some javascript. 
